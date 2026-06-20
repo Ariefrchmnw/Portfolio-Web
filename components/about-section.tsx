@@ -5,7 +5,6 @@ export default function AboutSection() {
     <section id="about" className="relative mx-auto max-w-7xl space-y-12 px-6 py-16 lg:px-8">
       <div className="space-y-4">
         <p className="text-sm uppercase tracking-[0.3em] text-cyan-300/70">Tentang Saya</p>
-        <h2 className="text-4xl font-extrabold tracking-tight text-white sm:text-5xl">Tentang Diri Saya</h2>
       </div>
 
       <div className="space-y-6">

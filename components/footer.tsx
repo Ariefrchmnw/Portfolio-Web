@@ -46,10 +46,6 @@ export default function Footer() {
             <a href={`mailto:${profileData.contact.email}`} className="block text-sm text-slate-400 hover:text-white transition duration-300">
               {profileData.contact.email}
             </a>
-            <a href={`tel:${profileData.contact.phone}`} className="block text-sm text-slate-400 hover:text-white transition duration-300">
-              {profileData.contact.phone}
-            </a>
-            <p className="text-sm text-slate-400">{profileData.contact.location}</p>
           </div>
         </div>
       </div>

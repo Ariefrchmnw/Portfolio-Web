@@ -67,4 +67,10 @@ export const projects = [
     tags: ['Java', 'Prototype'],
     image: '/images/AHA.jpeg',
   },
+  {
+    title: 'Portis – Mobile App for Elderly Care Services',
+    description: 'Mobile app yang dirancang untuk menghubungkan individu lansia dengan layanan perawatan. Dibangun dengan fokus pada usability dan desain intuitif menggunakan Figma untuk UI/UX design dan metodologi research berbasis user.',
+    tags: ['Figma', 'User-Centered Design', 'Mobile Design'],
+    image: '/images/portis-logo.png',
+  },
 ];
