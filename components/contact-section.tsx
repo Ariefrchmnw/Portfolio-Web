@@ -109,18 +109,6 @@ export default function ContactSection() {
               </a>
             </div>
 
-            <div>
-              <p className="text-xs uppercase tracking-[0.25em] text-cyan-300/70">Telepon</p>
-              <a href={`tel:${profileData.contact.phone}`} className="mt-2 text-lg font-semibold text-white hover:text-cyan-300 transition duration-300">
-                {profileData.contact.phone}
-              </a>
-            </div>
-
-            <div>
-              <p className="text-xs uppercase tracking-[0.25em] text-cyan-300/70">Lokasi</p>
-              <p className="mt-2 text-lg font-semibold text-white">{profileData.contact.location}</p>
-            </div>
-
             <div className="pt-4 border-t border-white/10 space-y-4">
               <p className="text-xs uppercase tracking-[0.25em] text-cyan-300/70">Sosial Media</p>
               <div className="flex gap-4">
