@@ -38,9 +38,9 @@ export const profileData = {
 export const stacks = [
   { name: 'HTML', category: 'Frontend', icon: '🌐', logo: '/images/logohtml.jpg' },
   { name: 'CSS', category: 'Frontend', icon: '🎨', logo: '/images/csslogo.png' },
+  { name: 'JavaScript', category: 'Basic', icon: '✨', logo: '/images/jslogo.jpeg' },
   { name: 'Figma', category: 'UI/UX Design', icon: '🧩', logo: '/images/figmalogo.png' },
   { name: 'Canva', category: 'Design', icon: '🖼️', logo: '/images/canvalogo.png' },
-  { name: 'JavaScript', category: 'Basic', icon: '✨', logo: '/images/jslogo.jpeg' },
   { name: 'Laravel', category: 'Basic', icon: '🐘', logo: '/images/laravellogo.webp' },
   { name: 'Firebase', category: 'Basic', icon: '🔥', logo: '/images/firebaselogo.png' },
   { name: 'PHP', category: 'Basic', icon: '🐘', logo: '/images/phplogo.png' },

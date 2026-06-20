@@ -1,4 +1,4 @@
-import Link from 'next/image';
+import Image from 'next/image';
 import { profileData } from '@/lib/portfolio-data';
 
 export default function HeroSection() {
